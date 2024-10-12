@@ -1,4 +1,4 @@
-package com.bptn.course;
+package com.bptn_02_teachBack;
 
 /**
  * Hello world!
